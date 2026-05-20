@@ -2,7 +2,7 @@
 Write a function called reverse_array which takes a list as an argument, and returns a list with the elements in reversed order.
 
 ## Whiteboard Process
-![whiteboard](/docs/array_reverse/reverse_array%20whiteboard.png)
+![whiteboard](reverse_array%20whiteboard.png)
 
 ## Approach & Efficiency
 Time: It looped through the list twice which is O(2n) which
